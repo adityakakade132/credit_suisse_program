@@ -1,0 +1,8 @@
+{"id":"1","state":"STARTED","timestamp":10,"type":"APPLICATION LOG","host":"abc"}
+{"id":"2","state":"FINISHED","timestamp":12,"type":"APPLICATION LOG","host":"abc"}
+{"id":"3","state":"STARTED","timestamp":20,"type":"APPLICATION LOG","host":"abc"}
+{"id":"2","state":"STARTED","timestamp":10,"type":"APPLICATION LOG","host":"abc"}
+{"id":"4","state":"FINISHED","timestamp":40,"type":"APPLICATION LOG","host":"abc"}
+{"id":"1","state":"FINISHED","timestamp":12,"type":"APPLICATION LOG","host":"abc"}
+{"id":"3","state":"FINISHED","timestamp":30,"type":"APPLICATION LOG","host":"abc"}
+{"id":"4","state":"STARTED","timestamp":35,"type":"APPLICATION LOG","host":"abc"}
